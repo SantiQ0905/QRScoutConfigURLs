@@ -395,6 +395,19 @@
         "code": "DEFEg",
         "formResetBehavior": "reset",
         "defaultValue": false
+    },
+    {
+        "title": "Yellow/Red Card",
+        "type": "select",
+        "required": true,
+        "code": "yc",
+        "formResetBehavior": "reset",
+        "defaultValue": "No Card",
+        "choices": {
+            "No Card": "No Card",
+            "Yellow": "Yellow Card",
+            "Red": "Red Card"
+        }
     }
     ]
 }
