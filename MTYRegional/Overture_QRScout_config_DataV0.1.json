@@ -86,8 +86,9 @@
         "required": true,
         "code": "robot",
         "formResetBehavior": "preserve",
-        "defaultValue": "R1",
+        "defaultValue": "CH",
         "choices": {
+        "CH:": "Choose a robot", 
         "R1": "Red 1 - NO PROCESSOR",
         "R2": "Red 2 - MIDDLE",
         "R3": "Red 3 - PROCESSOR",
