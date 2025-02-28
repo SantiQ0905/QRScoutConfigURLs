@@ -115,7 +115,7 @@
                     "formResetBehavior": "reset",
                     "defaultValue": "",
                     "min": 0,
-                    "max": 50
+                    "max": 200
                 }
             ]
         },
@@ -130,7 +130,7 @@
                     "formResetBehavior": "reset",
                     "defaultValue": "",
                     "min": 0,
-                    "max": 50
+                    "max": 200
                 }
             ]
         },
@@ -145,7 +145,7 @@
                     "formResetBehavior": "reset",
                     "defaultValue": "",
                     "min": 0,
-                    "max": 50
+                    "max": 200
                 },
                 {
                     "title": "Offense Skill",

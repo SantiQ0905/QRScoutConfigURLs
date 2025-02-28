@@ -97,6 +97,15 @@
         }
     },
     {
+        "title": "Future Alliance in Qualy?",
+        "description": "Do we play with this team in Qualys?. CHECK THE SCHEDULE or THEBLUEALLIANCE.COM",
+        "type": "boolean",
+        "required": true,
+        "code": "playinQualsWith",
+        "formResetBehavior": "reset",
+        "defaultValue": false
+    },
+    {
         "title": "Team Number",
         "description": "The team number of the robot you're scouting.",
         "type": "number",
