@@ -249,7 +249,7 @@
     {
         "title": "Dislodged Algae?",
         "type": "boolean",
-        "required": false,
+        "required": true,
         "code": "daT",
         "formResetBehavior": "reset",
         "defaultValue": false
@@ -257,15 +257,15 @@
     {
         "title": "Pickup Location",
         "type": "select",
-        "required": false,
+        "required": true,
         "code": "TGPL",
         "formResetBehavior": "reset",
         "defaultValue": "",
         "choices": {
-        "1": "None",
-        "2": "Ground",
-        "3": "Human Player",
-        "4": "Both"
+        "None": "None",
+        "Ground": "Ground",
+        "HP": "Human Player",
+        "Both": "Both"
         },
         "multiSelect": true
     },
