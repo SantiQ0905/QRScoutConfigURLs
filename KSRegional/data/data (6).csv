@@ -1,0 +1,59 @@
+M.M.,11,false,1769,R2,false,false,0,0,0,0,0,0,false,0,true,HP,0,0,1,0,3,0,false,false,0,false,No,false,No Card
+RM,11,false,5119,R3,false,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,2,false,false,0,false,Fc,false,No Card
+Hermes D,11,false,1847,R1,false,true,0,0,0,1,0,0,false,0,false,HP,1,1,0,2,0,0,false,false,0,false,P,false,No Card
+K S,11,false,10682,R2,false,false,0,0,0,0,0,0,false,0,false,HP,1,1,0,0,0,0,false,false,0,false,No,false,No Card
+Zayas,11,true,757,R1,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,1,0,0,0,false,false,0,false,Dc,false,No Card
+D.O.,11,true,5268,R3,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,0,6,0,0,false,false,0,false,Dc,false,No Card
+M.M.,12,true,9445,R2,true,false,0,0,0,0,0,0,false,0,false,HP,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+D.O.,12,false,0,R3,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,0,0,0,1,false,false,0,false,P,false,No Card
+AK,12,false,5098,R1,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,0,1,0,0,false,false,0,false,P,false,No Card
+Hermes D,12,false,2345,R3,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,0,1,0,0,false,true,0,false,No,false,No Card
+RM,12,false,2560,R3,false,true,0,0,0,0,0,0,false,0,false,HP,1,0,0,0,0,0,false,false,0,false,No,false,No Card
+KS,12,true,1810,R2,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,0,3,0,0,false,false,0,false,P,false,No Card
+KS,13,false,5189,R2,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+M.M.,13,false,937,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+D.O.,13,false,7421,R2,false,true,0,0,0,0,0,0,false,0,false,Both,0,0,0,5,0,0,false,false,0,false,Dc,false,No Card
+RM,13,true,1825,R2,false,true,0,0,0,1,0,0,false,0,true,HP,0,0,0,3,0,0,false,false,0,false,No,false,No Card
+AK,13,false,1764,R1,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,0,2,0,0,true,false,0,false,P,true,No Card
+Hermes D,13,false,1723,R2,false,true,0,0,0,0,1,0,true,0,false,HP,0,0,0,0,3,3,false,false,0,false,P,false,No Card
+D.O.,14,false,935,R2,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,0,5,0,0,false,false,0,false,P,false,No Card
+AK,14,false,4809,R1,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,1,1,0,0,false,false,0,false,No,false,No Card
+RM,14,false,1986,R3,false,true,1,0,0,1,0,0,false,0,true,HP,0,0,0,5,2,0,false,false,0,false,Dc,false,No Card
+KS,14,false,6843,R2,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+M.M.,14,true,2457,R3,false,false,0,0,0,0,0,0,false,0,true,HP,0,0,1,2,0,0,false,false,0,false,Fc,false,No Card
+Hermes D,14,false,2410,R1,false,true,0,0,0,0,0,0,false,0,false,HP,1,0,0,2,0,0,false,false,0,false,P,false,No Card
+KS,15,true,10453,R3,false,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+AK,15,false,5119,R2,false,true,0,0,0,0,0,0,false,0,false,Ground,0,0,0,0,1,1,false,false,0,false,Fc,false,No Card
+D.O.,15,false,757,R2,false,true,0,0,0,0,0,0,false,0,true,HP,0,2,2,0,0,1,false,false,0,false,P,false,No Card
+RM,15,false,9316,R1,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,1,0,0,0,false,false,0,false,No,false,No Card
+M.M.,15,false,0,R2,false,true,0,0,0,0,0,0,false,0,false,HP,0,1,0,0,0,0,false,false,0,false,P,false,No Card
+Hermes D,15,true,9554,R2,false,true,0,0,0,0,0,0,false,0,false,HP,0,0,0,0,0,0,false,false,0,true,No,false,No Card
+RM,16,false,6652,R2,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+KS,16,false,2001,R3,false,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+M.M.,16,false,2345,R2,false,false,0,0,0,0,0,0,false,0,false,Ground,1,0,0,0,0,0,false,false,0,false,P,false,No Card
+Hermes D,16,false,2560,R1,false,true,0,0,0,0,0,0,false,0,false,HP,3,0,0,1,0,0,false,false,0,false,No,false,No Card
+D.O.,16,false,1730,R3,false,true,0,0,0,0,0,0,false,0,true,HP,1,0,0,0,0,0,false,true,0,false,No,false,No Card
+AK,16,false,5013,R2,true,false,0,0,0,0,0,0,false,0,false,Ground,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+D.O.,17,true,5098,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+RM,17,false,1827,R1,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+Hermes D,17,false,5141,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+AK,17,false,5268,R3,false,false,0,0,0,0,0,0,false,0,false,HP,0,0,0,4,0,0,false,false,0,false,P,false,No Card
+KS,17,false,10682,R2,false,false,0,0,0,0,0,0,false,0,false,HP,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+M.M.,17,false,1723,R2,false,false,0,0,0,0,0,0,true,0,false,Ground,1,0,0,0,2,0,false,false,0,false,Fc,false,No Card
+D.O.,18,false,9316,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+RM,18,false,4455,R1,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+AK,18,false,1769,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+Hermes D,18,false,9551,R1,false,true,0,0,0,1,0,0,false,0,true,HP,1,0,0,3,0,0,false,false,0,false,P,false,No Card
+M.M.,18,false,1847,R1,false,true,0,0,0,3,0,0,false,0,false,HP,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+KS,18,false,1108,R2,false,true,0,0,0,1,0,0,false,0,false,HP,0,0,0,9,0,0,false,false,0,false,Dc,false,No Card
+Hermes D,19,false,937,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+D.O.,19,false,1764,R2,false,true,0,0,0,0,0,0,false,0,true,HP,0,0,0,1,0,3,false,true,0,false,P,false,No Card
+AK,19,false,1108,R1,false,true,0,0,0,0,0,0,false,0,false,HP,0,1,4,5,0,2,false,false,0,false,P,false,No Card
+RM,19,false,1723,R2,false,true,0,0,0,0,0,0,false,0,true,None,0,0,0,0,4,1,false,false,0,false,P,false,No Card
+KS,19,false,935,R1,false,false,0,0,0,0,0,0,false,0,false,HP,0,0,0,1,0,0,false,false,0,false,Fc,false,No Card
+M.M.,19,false,757,R1,false,true,0,0,0,3,0,2,false,0,false,HP,0,0,0,0,0,0,false,false,0,false,P,false,No Card
+D.O.,20,false,5013,R3,true,false,0,0,0,0,0,0,false,0,false,None,0,0,0,0,0,0,false,false,0,false,No,false,No Card
+AK,20,false,1825,R3,false,true,0,0,0,0,0,0,false,0,true,HP,0,3,2,0,0,0,false,false,0,false,P,false,No Card
+KS,20,false,2410,R2,false,false,0,0,0,0,0,0,false,0,false,HP,0,0,0,2,0,0,false,false,0,true,No,false,No Card
+Hermes D,20,false,5119,R1,false,true,0,0,0,0,0,0,false,0,true,Ground,0,0,0,0,0,4,false,false,0,false,P,false,No Card
+RM,20,false,2001,R1,false,true,0,0,0,0,0,0,false,0,false,HP,1,0,0,0,0,0,false,false,0,false,P,false,No Card

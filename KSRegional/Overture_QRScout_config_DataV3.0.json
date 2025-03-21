@@ -1,6 +1,6 @@
 {
 "title": "Overscouting",
-"page_title": "Overreefscape - Datav3.1",
+"page_title": "Overreefscape - Datav4.0",
 "delimiter": "\t",
 "teamNumber": 7421,
 "theme": {
@@ -385,10 +385,31 @@
         }
     },
     {
+        "title": "Broke?",
+        "type": "select",
+        "required": true,
+        "code": "broke",
+        "formResetBehavior": "reset",
+        "defaultValue": "Choose One",
+        "choices": {
+        "No": "No",
+        "Yes": "Yes",
+        "Cho": "Choose One"
+        }
+    },
+    {
         "title": "Defended?",
         "type": "boolean",
         "required": false,
         "code": "DEFEg",
+        "formResetBehavior": "reset",
+        "defaultValue": false
+    },
+    {
+        "title": "Coral HP mistake?",
+        "type": "boolean",
+        "required": true,
+        "code": "CoralHPmistake",
         "formResetBehavior": "reset",
         "defaultValue": false
     },
