@@ -1,6 +1,6 @@
 {
 "title": "Overscouting",
-"page_title": "Overreefscape - Datav4.0",
+"page_title": "Overreefscape - Datav4.1",
 "delimiter": "\t",
 "teamNumber": 7421,
 "theme": {
@@ -386,16 +386,11 @@
     },
     {
         "title": "Broke?",
-        "type": "select",
+        "type": "boolean",
         "required": true,
         "code": "broke",
         "formResetBehavior": "reset",
-        "defaultValue": "Choose One",
-        "choices": {
-        "No": "No",
-        "Yes": "Yes",
-        "Cho": "Choose One"
-        }
+        "defaultValue": false
     },
     {
         "title": "Defended?",
