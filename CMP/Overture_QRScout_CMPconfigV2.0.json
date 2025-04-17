@@ -1,6 +1,6 @@
 {
     "title": "Overscouting",
-    "page_title": "Overreefscape - CMPv0.1",
+    "page_title": "Overreefscape - CMPv2.0",
     "delimiter": "\t",
     "teamNumber": 7421,
     "theme": {
@@ -75,6 +75,20 @@
                 }
         },
         {
+            "title": "Highlights Scouter",
+            "description": "The Highlight Scouter for this match block.",
+            "type": "select",
+            "required": true,
+            "code": "highlightsScouter",
+            "formResetBehavior": "preserve",
+            "defaultValue": "choose",
+            "choices": {
+                "Ricky": "Ricky",
+                "Ochoa": "Ochoa",
+                "Evans": "Evans"
+                }
+        },
+        {
             "title": "Scouter Name",
             "description": "The Scouter for this match.",
             "type": "select",
@@ -96,7 +110,13 @@
                 "Hermes": "Hermes",
                 "Paulina": "Paulina",
                 "Regina": "Regina",
-                "Suri": "Suri"
+                "Suri": "Suri",
+                "DiegoG": "DiegoG",
+                "Zayas": "Zayas",
+                "Marco": "Marco",
+                "Ricky": "Ricky",
+                "Alarii": "Alarii",
+                "EmiloR": "EmiloR"
             }
         },
         {
@@ -127,6 +147,15 @@
             "defaultValue": 0,
             "min": 0,
             "max": 19999
+        },
+        {
+            "title": "No Show",
+            "description": "Did this team not show up?",
+            "type": "boolean",
+            "required": true,
+            "code": "NoShow",
+            "formResetBehavior": "reset",
+            "defaultValue": false
         }
         ]
     },
@@ -164,10 +193,10 @@
         "fields": [
         {
             "title": "Coral L1 Scored",
-            "description": "The number of level 1 coral scored during autonomous.",
+            "description": "The number of level 1 coral scored during TeleOP.",
             "type": "counter",
             "required": false,
-            "code": "CLOT",
+            "code": "CL1Tele",
             "formResetBehavior": "reset",
             "defaultValue": 0,
             "min": 0,
@@ -175,10 +204,10 @@
         },
         {
             "title": "Coral L2 Scored",
-            "description": "The number of level 2 coral scored during autonomous.",
+            "description": "The number of level 2 coral scored during TeleOP.",
             "type": "counter",
             "required": false,
-            "code": "CLTT",
+            "code": "CL2Tele",
             "formResetBehavior": "reset",
             "defaultValue": 0,
             "min": 0,
@@ -186,10 +215,10 @@
         },
         {
             "title": "Coral L3 Scored",
-            "description": "The number of level 3 coral scored during autonomous.",
+            "description": "The number of level 3 coral scored during TeleOP.",
             "type": "counter",
             "required": false,
-            "code": "CLThT",
+            "code": "CL3Tele",
             "formResetBehavior": "reset",
             "defaultValue": 0,
             "min": 0,
@@ -197,22 +226,33 @@
         },
         {
             "title": "Coral L4 Scored",
-            "description": "The number of level 4 coral scored during autonomous.",
+            "description": "The number of level 4 coral scored during TeleOP.",
             "type": "counter",
             "required": false,
-            "code": "CLFT",
+            "code": "CL4Tele",
             "formResetBehavior": "reset",
             "defaultValue": 0,
             "min": 0,
             "step": 1
         },
         {
-            "title": "Played Algae?(Disloged NO COUNT)",
+            "title": "Played Algae?(Disloged DOES NOT COUNT)",
             "type": "boolean",
             "required": false,
             "code": "PlayedAlg",
             "formResetBehavior": "reset",
             "defaultValue": false
+        },
+        {
+            "title": "Algae Scored in Barge",
+            "description": "The number of algae scored during TeleOP.",
+            "type": "counter",
+            "required": false,
+            "code": "AlgaeScoredTeleOp",
+            "formResetBehavior": "reset",
+            "defaultValue": 0,
+            "min": 0,
+            "step": 1
         },
         {
             "title": "Crossed Feild/Played Defense?",
@@ -247,7 +287,7 @@
             "title": "Was the robot Defended by someone?",
             "type": "boolean",
             "required": false,
-            "code": "DEFEg",
+            "code": "WasRobotDefended",
             "formResetBehavior": "reset",
             "defaultValue": false
         },
@@ -255,7 +295,7 @@
             "title": "Yellow/Red Card",
             "type": "select",
             "required": true,
-            "code": "yc",
+            "code": "YellowRedCard",
             "formResetBehavior": "reset",
             "defaultValue": "No Card",
             "choices": {
@@ -268,7 +308,7 @@
             "title": "Climbed?",
             "type": "boolean",
             "required": false,
-            "code": "dto",
+            "code": "Climbed",
             "formResetBehavior": "reset",
             "defaultValue": false
         }
